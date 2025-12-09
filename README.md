@@ -118,7 +118,12 @@ Choosing and adding color palettes
 
 Font,Styling and layout ideas
 
-Renaming objects for increasing readability
+Renaming objects for better readability
 
-This project is intended as a learning/portfolio project, not a production-ready IRCTC clone.
+Guidance for PNR feature
+
+Code Captcha verification feature 
+
+
+**This project is intended as a learning/portfolio project, not a production-ready IRCTC clone.
 
